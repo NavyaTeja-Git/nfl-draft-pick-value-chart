@@ -1,0 +1,33 @@
+truth,setting,region,cover80,cover95,width95,rmse
+real_shape,"paper (M=50, mu=0.5, phi=0.25)",all picks,0.74,0.902,1.912,0.578
+real_shape,"paper (M=50, mu=0.5, phi=0.25)",picks 1-32,0.844,0.95,2.964,0.724
+real_shape,"paper (M=50, mu=0.5, phi=0.25)",picks 33-100,0.794,0.954,1.907,0.453
+real_shape,"paper (M=50, mu=0.5, phi=0.25)",picks 101-262,0.698,0.87,1.707,0.55
+real_shape,"M=50, mu=0.1, phi=0.1",all picks,0.778,0.939,1.967,0.539
+real_shape,"M=50, mu=0.1, phi=0.1",picks 1-32,0.762,0.906,2.703,0.826
+real_shape,"M=50, mu=0.1, phi=0.1",picks 33-100,0.86,0.98,1.902,0.404
+real_shape,"M=50, mu=0.1, phi=0.1",picks 101-262,0.746,0.929,1.849,0.485
+real_shape,"M=50, mu=0.05, phi=0.05",all picks,0.781,0.924,1.891,0.578
+real_shape,"M=50, mu=0.05, phi=0.05",picks 1-32,0.566,0.769,2.476,1.123
+real_shape,"M=50, mu=0.05, phi=0.05",picks 33-100,0.753,0.932,1.821,0.46
+real_shape,"M=50, mu=0.05, phi=0.05",picks 101-262,0.836,0.952,1.804,0.417
+real_shape,"M=20, mu=0.5, phi=0.25",all picks,0.742,0.916,1.754,0.495
+real_shape,"M=20, mu=0.5, phi=0.25",picks 1-32,0.766,0.931,2.607,0.619
+real_shape,"M=20, mu=0.5, phi=0.25",picks 33-100,0.815,0.946,1.708,0.392
+real_shape,"M=20, mu=0.5, phi=0.25",picks 101-262,0.707,0.901,1.606,0.484
+exponential,"paper (M=50, mu=0.5, phi=0.25)",all picks,0.791,0.943,2.054,0.555
+exponential,"paper (M=50, mu=0.5, phi=0.25)",picks 1-32,0.866,0.967,3.289,0.796
+exponential,"paper (M=50, mu=0.5, phi=0.25)",picks 33-100,0.746,0.938,2.199,0.561
+exponential,"paper (M=50, mu=0.5, phi=0.25)",picks 101-262,0.796,0.94,1.749,0.444
+exponential,"M=50, mu=0.1, phi=0.1",all picks,0.784,0.949,1.959,0.544
+exponential,"M=50, mu=0.1, phi=0.1",picks 1-32,0.791,0.909,2.994,0.938
+exponential,"M=50, mu=0.1, phi=0.1",picks 33-100,0.818,0.968,2.083,0.479
+exponential,"M=50, mu=0.1, phi=0.1",picks 101-262,0.769,0.948,1.703,0.417
+exponential,"M=50, mu=0.05, phi=0.05",all picks,0.736,0.923,1.869,0.589
+exponential,"M=50, mu=0.05, phi=0.05",picks 1-32,0.644,0.831,2.723,0.997
+exponential,"M=50, mu=0.05, phi=0.05",picks 33-100,0.753,0.924,1.965,0.5
+exponential,"M=50, mu=0.05, phi=0.05",picks 101-262,0.747,0.941,1.659,0.46
+exponential,"M=20, mu=0.5, phi=0.25",all picks,0.708,0.887,1.83,0.549
+exponential,"M=20, mu=0.5, phi=0.25",picks 1-32,0.8,0.891,2.83,0.683
+exponential,"M=20, mu=0.5, phi=0.25",picks 33-100,0.699,0.857,1.882,0.539
+exponential,"M=20, mu=0.5, phi=0.25",picks 101-262,0.694,0.899,1.611,0.459

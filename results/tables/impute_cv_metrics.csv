@@ -1,0 +1,13 @@
+k,model,MAE,RMSE,bias
+1,gam_plus,6.27,8.64,0.01
+1,gam_schuckers,6.33,8.81,0.0
+1,pick_only,8.34,11.11,0.02
+2,gam_plus,4.2,6.01,-0.0
+2,gam_schuckers,4.32,6.13,0.0
+2,pick_only,8.09,10.61,0.27
+3,gam_plus,2.68,4.05,-0.0
+3,gam_schuckers,2.86,4.21,0.0
+3,pick_only,7.35,9.37,1.01
+4,gam_plus,1.35,2.24,0.0
+4,gam_schuckers,1.49,2.34,0.01
+4,pick_only,5.96,7.64,2.4

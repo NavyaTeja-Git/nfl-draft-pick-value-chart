@@ -1,0 +1,7 @@
+model,RMSE,MAE
+bayes_monotone,11.137,8.353
+isotonic,11.091,8.301
+xgboost_mono,11.106,8.272
+spline_mono,11.145,8.356
+spline_32,11.137,8.347
+pick_average,11.515,8.544

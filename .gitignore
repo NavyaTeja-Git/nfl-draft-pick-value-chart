@@ -1,0 +1,25 @@
+# Cached Pro-Football-Reference HTML (large; re-creatable by fetch.py).
+# data/raw/draft/ is NOT ignored: those CSVs were collected by hand.
+data/raw/players/
+data/raw/years/
+*.part
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Replaced 2018 paged exports (kept locally for reference)
+data/raw/stathead/superseded/
+
+
+# Data from Sports Reference is not redistributed
+data/raw/
+data/processed/
