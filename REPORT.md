@@ -1,8 +1,10 @@
 # Bounded Draft Pick Value Charts: A Bayesian Monotone Approach for the NFL Draft
 
 **Navya Teja Pathuri**
-UNC Charlotte. Mentor: Dr. Michael Schuckers.
-Based on the working paper "Bounded Draft Pick Value Charts" (Schuckers, Zou, Pathuri).
+
+UNC Charlotte 
+Mentor: Dr. Michael Schuckers
+"Bounded Draft Pick Value Charts"
 
 ---
 
@@ -73,13 +75,10 @@ bounds.
   Reference's query tool), exported by draft class.
 - **Jimmy Johnson chart:** points for picks 1-224, for comparison only.
 
-PFR now answers automated requests with a bot challenge, so the draft pages
-were saved from a browser and the season data were taken from Stathead
-exports rather than scraped.
+The season data were taken from Stathead exports rather than scraped.
 
 **Approximate Value** (Drinen, Sports-Reference) is PFR's single-number rating
-of a player-season at any position; it is the performance measure used by
-Schuckers (2011) and in this project.
+of a player-season at any position; it is the performance measure used in this project.
 
 ### 2.2 Variables
 
