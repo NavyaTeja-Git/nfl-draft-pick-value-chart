@@ -1,7 +1,9 @@
 # Bounded NFL Draft Pick Value Charts
 
-UNC Charlotte (mentor: Dr. Michael Schuckers).
-Paper: "Bounded Draft Pick Value Charts" (Schuckers, Zou, Pathuri).
+UNC Charlotte 
+
+(mentor: Dr. Michael Schuckers) 
+"Bounded Draft Pick Value Charts"
 
 **Full write-up: [REPORT.md](REPORT.md)**
 
@@ -24,7 +26,7 @@ over a player's first five seasons, for players drafted 2012-2025.
 | 6 | Bounded value chart: Bayesian monotone curve with credible bounds | done |
 | 7 | Comparison with isotonic, monotone XGBoost, splines and the Jimmy Johnson chart | done |
 
-A plain-language walk-through of the whole project: [docs/OVERVIEW.md](docs/OVERVIEW.md).
+Walk-through of the whole project: [docs/OVERVIEW.md](docs/OVERVIEW.md).
 Every step, rule and decision in detail: [docs/METHODS.md](docs/METHODS.md).
 
 ## Main files
