@@ -1,4 +1,4 @@
-# Project overview, in plain language
+# Project overview
 
 ## The question
 
@@ -100,7 +100,7 @@ history is the better guide.
 
 The full write-up is [REPORT.md](../REPORT.md).
 
-## Questions you may be asked
+## Questions you may ask
 
 - **Why CUMYr5?** Five years covers a rookie contract, the years a team
   controls the player it drafted.
